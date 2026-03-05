@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodingPractice-01\CodingPractice-01.csproj" />
+  <Project Path="CodingPractice-02\CodingPractice-02.csproj" />
+  <Project Path="GameCurrency\GameCurrency.csproj" />
+  <Project Path="GameTime\GameTime.csproj" />
+</Solution>
